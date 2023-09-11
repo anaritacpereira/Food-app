@@ -1,7 +1,7 @@
 # Food-app
 
 - Languages used: React;
-- with backend NodeJS;
+
 
 ## How To Use
 
@@ -19,4 +19,5 @@ $ npm start
 
 ##
 
-[screen-capture (2).webm](https://github.com/anaritacpereira/Expenses_Log/assets/127841235/c51bac64-4727-4bd2-81bc-4ad589cbbef2)
+
+[screen-capture.webm](https://github.com/anaritacpereira/Food-app/assets/127841235/2e9b4082-3fcb-457b-a8d5-4126b9a0c751)
